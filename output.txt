@@ -1,0 +1,718 @@
+***Previous Adventurers*** 
+"Johnny"
+Enter your username: May
+saving info for next time
+Enter your character's name:  May
+Type 'help' to get a list of all possible commands.
+
+May stumbles upon a forest looking for a lost princess.
+To get started, type 'RPGClasses' to see the list of all available classes.
+Starting at  row: 11   col: 2
+Enter command: RPGClasses
+Class:  Cleric
+Health:  Medium 
+ Damage: Low 
+ Intellect:  High 
+ Dexterity:  Low 
+ Clerics are wielders of the light- they have low damage, but a high chance to level up. 
+
+Class:  Mage
+Health:  Low 
+ Damage: Very High 
+ Intellect:  Very High 
+ Dexterity:  Low 
+ Mages are frail and practice mystical arts to quickly burst down enemies.. 
+
+Class:  Rogue
+Health:  Low 
+ Damage: Medium 
+ Intellect:  Medium 
+ Dexterity:  Very High 
+ Rogues are swift and rely on agility to dodge attacks. 
+
+Class:  Warrior
+Health:  Very High 
+ Damage: High 
+ Intellect:  Very Low 
+ Dexterity:  Very Low 
+ Warriors are sturdy and are highly trained in close combat. 
+
+Enter a class that interests you the most.
+Enter command: Warrior
+You are a proud warrior.
+Enter command: help
+dict_keys(['exit', 'help', 'status', 'rest', 'search', 'flee', 'Inventory', 'Loot', 'attack', 'left', 'right', 'up', 'down', 'RPGClasses', 'Cleric', 'Mage', 'Rogue', 'Warrior', 'EquipRobes', 'EquipLeatherBreastplate', 'EquipSteelPauldrons', 'EquipSteelBoots', 'Talk', 'OptionFunctions'])
+Enter command: up
+Now at row: 10    col: 2     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+You encountered a ghost!
+Enter command: attack
+a ghost evades you's attack.
+May evades you's attack.
+Enter command: attack
+May did 12 damage to a ghost!
+May evades you's attack.
+Enter command: attack
+a ghost evades you's attack.
+May evades you's attack.
+Enter command: attack
+May did 9 damage to a ghost!
+May evades you's attack.
+Enter command: attack
+May did 8 damage to a ghost!
+a ghost has been slain!
+Enter command: up
+Now at row: 9    col: 2     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+You feel weary...
+Enter command: up
+Now at row: 8    col: 2     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+You feel weary...
+Enter command: right
+Now at row: 8    col: 3     cell contains: You find a suspicious spot on the ground... might be worth digging up. Type 'Loot' to look look around for loot.
+Enter command: Loot
+You found SteelBoots!
+Enter command: EquipSteelBoots
+Enter command: up
+Now at row: 7    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+You encountered a minotaur!
+Enter command: attack
+a minotaur evades you's attack.
+May evades you's attack.
+Enter command: attack
+May did 4 damage to a minotaur!
+a minotaur did 2 damage to May!
+Enter command: attack
+May did 7 damage to a minotaur!
+a minotaur did 13 damage to May!
+Enter command: attack
+May did 5 damage to a minotaur!
+May evades you's attack.
+Enter command: attack
+a minotaur evades you's attack.
+May evades you's attack.
+Enter command: attack
+May did 2 damage to a minotaur!
+a minotaur has been slain!
+Enter command: up
+Now at row: 6    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+You encountered a treant!
+Enter command: attack
+May did 4 damage to a treant!
+May evades you's attack.
+Enter command: attack
+a treant evades you's attack.
+May evades you's attack.
+Enter command: attack
+May did 1 damage to a treant!
+a treant did 4 damage to May!
+Enter command: attack
+a treant evades you's attack.
+a treant did 9 damage to May!
+Enter command: attack
+May did 1 damage to a treant!
+May evades you's attack.
+Enter command: attack
+a treant evades you's attack.
+a treant did 14 damage to May!
+Enter command: attack
+May did 11 damage to a treant!
+a treant has been slain!
+Enter command: status
+level: 1
+health: 16/66 
+Enter command: rest
+You fell asleep.
+Enter command: status
+level: 1
+health: 40/66 
+Enter command: rest
+You fell asleep.
+Enter command: status
+level: 1
+health: 46/66 
+Enter command: rest
+You fell asleep.
+a scavenger attacks you in your sleep!
+May evades you's attack.
+Enter command: attack
+a scavenger evades you's attack.
+May evades you's attack.
+Enter command: attack
+May did 1 damage to a scavenger!
+May evades you's attack.
+Enter command: attack
+a scavenger evades you's attack.
+a scavenger did 12 damage to May!
+Enter command: attack
+a scavenger evades you's attack.
+May evades you's attack.
+Enter command: attack
+a scavenger evades you's attack.
+May evades you's attack.
+Enter command: attack
+a scavenger evades you's attack.
+a scavenger did 12 damage to May!
+Enter command: attack
+a scavenger evades you's attack.
+May evades you's attack.
+Enter command: attack
+a scavenger evades you's attack.
+a scavenger did 5 damage to May!
+Enter command: attack
+a scavenger evades you's attack.
+May evades you's attack.
+Enter command: attac
+a scavenger evades you's attack.
+a scavenger did 1 damage to May!
+Enter command: flee
+You were too slow to escape from a scavenger!
+May evades you's attack.
+Enter command: attack
+a scavenger evades you's attack.
+a scavenger did 3 damage to May!
+Enter command: attack
+a scavenger evades you's attack.
+a scavenger did 2 damage to May!
+Enter command: status
+level: 1
+health: 11/66 
+Enter command: attack
+a scavenger evades you's attack.
+a scavenger did 2 damage to May!
+Enter command: attack
+a scavenger evades you's attack.
+May evades you's attack.
+Enter command: attack
+a scavenger evades you's attack.
+May evades you's attack.
+Enter command: attack
+a scavenger evades you's attack.
+a scavenger did 7 damage to May!
+Enter command: attack
+a scavenger evades you's attack.
+a scavenger did 2 damage to May!
+You were killed by a scavenger!
+YOU DIED.
+>>> 
+================= RESTART: C:/Users/MiNDB/Desktop/FINALL.py =================
+***Previous Adventurers*** 
+"Johnny"
+"May"
+Died to an enemy.
+Enter your username: Shawn
+saving info for next time
+Enter your character's name:  Shawn
+Type 'help' to get a list of all possible commands.
+
+Shawn stumbles upon a forest looking for a lost princess.
+To get started, type 'RPGClasses' to see the list of all available classes.
+Starting at  row: 11   col: 2
+Enter command: RPGClasses
+Class:  Cleric
+Health:  Medium 
+ Damage: Low 
+ Intellect:  High 
+ Dexterity:  Low 
+ Clerics are wielders of the light- they have low damage, but a high chance to level up. 
+
+Class:  Mage
+Health:  Low 
+ Damage: Very High 
+ Intellect:  Very High 
+ Dexterity:  Low 
+ Mages are frail and practice mystical arts to quickly burst down enemies.. 
+
+Class:  Rogue
+Health:  Low 
+ Damage: Medium 
+ Intellect:  Medium 
+ Dexterity:  Very High 
+ Rogues are swift and rely on agility to dodge attacks. 
+
+Class:  Warrior
+Health:  Very High 
+ Damage: High 
+ Intellect:  Very Low 
+ Dexterity:  Very Low 
+ Warriors are sturdy and are highly trained in close combat. 
+
+Enter a class that interests you the most.
+Enter command: Mage
+You are a practitioner of the mystical arts.
+Enter command: help
+dict_keys(['exit', 'help', 'status', 'rest', 'search', 'flee', 'Inventory', 'Loot', 'attack', 'left', 'right', 'up', 'down', 'RPGClasses', 'Cleric', 'Mage', 'Rogue', 'Warrior', 'EquipRobes', 'EquipLeatherBreastplate', 'EquipSteelPauldrons', 'EquipSteelBoots', 'Talk', 'OptionFunctions'])
+Enter command: OtionFunctions
+OtionFunctions is not a valid command
+Enter command: OptionFunctions
+The Functions
+What does exit do? Exit allows you to exit the game 
+
+ What does help do?  Help shows all available options 
+
+ What does status do?  Status displays your current level and health 
+
+ What does rest do?  Rest allows you to restore some health while not exploring 
+
+ What does flee do? Flee allows you to run away from encounters 
+
+ What does Inventory do? Inventory allows you to see every item you've picked up so far. 
+
+ What does Loot do? Loot allows you to look for treasure in the area when prompted to 
+
+ What does attack do? While in battle, it lets you damage an enemy. 
+
+ What does left do? Left allows you to move left on the map 
+
+ What does right do? Right allows you to move right on the map 
+
+ What does up do? Up allows you to move upward on the map 
+
+ What does down do? Down allows you to go downward on the map 
+
+ What does RPGClasses do? RPGClasses allows you to check all available classes in the game 
+
+ What does Cleric do? Cleric allows you to change your class into a Cleric 
+
+ What does Mage do? Mage allows you to change your class into a Mage 
+
+ What does Warrior Warrior allows you to change your class into a Warrior 
+
+ What does Rogue do? Rogue allows you to change your class into a Rogue 
+
+ What does EquipRobes do? Allows you to equip Robes if you have found them 
+
+ What does EquipLeatherBreastplate do? Allows you to equip Leather Breastplates if you have found them 
+
+ What does EquipSteelPauldrons do? Allows you to equip Steel Pauldrons if you have found them 
+
+ What does EquipSteelBoots do? Allows you to equip Steel Boots if you have found them 
+
+ What does Talk do? Talk allows you to chat with NPC's when prompted to. 
+
+Hope that helped
+Enter command: up
+Now at row: 10    col: 2     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+You encountered a mercenary!
+Enter command: attack
+Shawn did 8 damage to a mercenary!
+a mercenary has been slain!
+You feels stronger!
+Enter command: right
+Now at row: 10    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+Enter command: up
+Now at row: 9    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+You encountered a bear!
+Enter command: attack
+Shawn did 2 damage to a bear!
+a bear did 10 damage to Shawn!
+Enter command: attack
+Shawn did 3 damage to a bear!
+Shawn evades a bear's attack.
+Enter command: attack
+Shawn did 13 damage to a bear!
+a bear has been slain!
+Enter command: status
+level: 1
+health: 11/24 
+Enter command: rest
+You fell asleep.
+a wolf attacks you in your sleep!
+a wolf did 3 damage to Shawn!
+Enter command: attack
+Shawn did 8 damage to a wolf!
+a wolf has been slain!
+Enter command: rest
+You fell asleep.
+a minotaur attacks you in your sleep!
+a minotaur did 5 damage to Shawn!
+Enter command: attack
+a minotaur evades Shawn's attack.
+a minotaur did 3 damage to Shawn!
+You were killed by a minotaur!
+YOU DIED.
+>>> 
+================= RESTART: C:/Users/MiNDB/Desktop/FINALL.py =================
+***Previous Adventurers*** 
+"Johnny"
+"May"
+Died to an enemy.
+"Shawn"
+Died to an enemy.
+Enter your username: Dan
+saving info for next time
+Enter your character's name:  Dan
+Type 'help' to get a list of all possible commands.
+
+Dan stumbles upon a forest looking for a lost princess.
+To get started, type 'RPGClasses' to see the list of all available classes.
+Starting at  row: 11   col: 2
+Enter command: RPGClasses
+Class:  Cleric
+Health:  Medium 
+ Damage: Low 
+ Intellect:  High 
+ Dexterity:  Low 
+ Clerics are wielders of the light- they have low damage, but a high chance to level up. 
+
+Class:  Mage
+Health:  Low 
+ Damage: Very High 
+ Intellect:  Very High 
+ Dexterity:  Low 
+ Mages are frail and practice mystical arts to quickly burst down enemies.. 
+
+Class:  Rogue
+Health:  Low 
+ Damage: Medium 
+ Intellect:  Medium 
+ Dexterity:  Very High 
+ Rogues are swift and rely on agility to dodge attacks. 
+
+Class:  Warrior
+Health:  Very High 
+ Damage: High 
+ Intellect:  Very Low 
+ Dexterity:  Very Low 
+ Warriors are sturdy and are highly trained in close combat. 
+
+Enter a class that interests you the most.
+Enter command: Rogue
+You are a savage thief.
+Enter command: help
+dict_keys(['exit', 'help', 'status', 'rest', 'search', 'flee', 'Inventory', 'Loot', 'attack', 'left', 'right', 'up', 'down', 'RPGClasses', 'Cleric', 'Mage', 'Rogue', 'Warrior', 'EquipRobes', 'EquipLeatherBreastplate', 'EquipSteelPauldrons', 'EquipSteelBoots', 'Talk', 'OptionFunctions'])
+Enter command: right
+Now at row: 11    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+Enter command: up
+Now at row: 10    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+Enter command: up
+Now at row: 9    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+Enter command: up
+Now at row: 8    col: 3     cell contains: You find a suspicious spot on the ground... might be worth digging up. Type 'Loot' to look look around for loot.
+Enter command: Loot
+You found HealthPotion!
+Enter command: help
+dict_keys(['exit', 'help', 'status', 'rest', 'search', 'flee', 'Inventory', 'Loot', 'attack', 'left', 'right', 'up', 'down', 'RPGClasses', 'Cleric', 'Mage', 'Rogue', 'Warrior', 'EquipRobes', 'EquipLeatherBreastplate', 'EquipSteelPauldrons', 'EquipSteelBoots', 'Talk', 'OptionFunctions'])
+Enter command: Inventory
+['HealthPotion']
+Enter command: up
+Now at row: 7    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+Enter command: up
+Now at row: 6    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+You feel weary...
+Enter command: up
+Now at row: 5    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+You feel weary...
+Enter command: up
+Now at row: 4    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+You encountered a demon!
+Enter command: attack
+a demon evades Dan's attack.
+Dan evades a demon's attack.
+Enter command: attack
+Dan did 5 damage to a demon!
+Dan evades a demon's attack.
+Enter command: attack
+Dan did 1 damage to a demon!
+a demon has been slain!
+Enter command: up
+Now at row: 3    col: 3     cell contains: You hear faint crying in the distance- better check it out.
+Enter command: up
+Now at row: 2    col: 3     cell contains: You've found the princess you were looking for! (Type 'Talk' to initiate a conversation with the princesss
+Enter command: Talk
+Oh, dearest me. I miss my family. Oh kind sir or ma'am, I don't mean to assume in 476 AD, but would you please help me? Yes/No Yes
+Oh, thank you! Thank you!
+You and the princess return swiftly to her kingdom. The king grants his daughter's hand in marriage and the two of you live happily ever after.
+>>> 
+================= RESTART: C:/Users/MiNDB/Desktop/FINALL.py =================
+***Previous Adventurers*** 
+"Johnny"
+"May"
+Died to an enemy.
+"Shawn"
+Died to an enemy.
+"Dan"
+Got a happy ending. ;)
+Enter your username: Sheryl
+saving info for next time
+Enter your character's name:  Sheryl
+Type 'help' to get a list of all possible commands.
+
+Sheryl stumbles upon a forest looking for a lost princess.
+To get started, type 'RPGClasses' to see the list of all available classes.
+Starting at  row: 11   col: 2
+Enter command: RPGClasses
+Class:  Cleric
+Health:  Medium 
+ Damage: Low 
+ Intellect:  High 
+ Dexterity:  Low 
+ Clerics are wielders of the light- they have low damage, but a high chance to level up. 
+
+Class:  Mage
+Health:  Low 
+ Damage: Very High 
+ Intellect:  Very High 
+ Dexterity:  Low 
+ Mages are frail and practice mystical arts to quickly burst down enemies.. 
+
+Class:  Rogue
+Health:  Low 
+ Damage: Medium 
+ Intellect:  Medium 
+ Dexterity:  Very High 
+ Rogues are swift and rely on agility to dodge attacks. 
+
+Class:  Warrior
+Health:  Very High 
+ Damage: High 
+ Intellect:  Very Low 
+ Dexterity:  Very Low 
+ Warriors are sturdy and are highly trained in close combat. 
+
+Enter a class that interests you the most.
+Enter command: Cleric
+You are a wielder of the light
+Enter command: help
+dict_keys(['exit', 'help', 'status', 'rest', 'search', 'flee', 'Inventory', 'Loot', 'attack', 'left', 'right', 'up', 'down', 'RPGClasses', 'Cleric', 'Mage', 'Rogue', 'Warrior', 'EquipRobes', 'EquipLeatherBreastplate', 'EquipSteelPauldrons', 'EquipSteelBoots', 'Talk', 'OptionFunctions'])
+Enter command: right
+Now at row: 11    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+You feel weary...
+Enter command: up
+Now at row: 10    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+You encountered a harpy!
+Enter command: attack
+a harpy evades Sheryl's attack.
+Sheryl evades a harpy's attack.
+Enter command: attack
+Sheryl did 8 damage to a harpy!
+Sheryl evades a harpy's attack.
+Enter command: attack
+a harpy evades Sheryl's attack.
+Sheryl evades a harpy's attack.
+Enter command: attack
+a harpy evades Sheryl's attack.
+a harpy did 3 damage to Sheryl!
+Enter command: attack
+a harpy evades Sheryl's attack.
+Sheryl evades a harpy's attack.
+Enter command: attack
+Sheryl did 7 damage to a harpy!
+Sheryl evades a harpy's attack.
+Enter command: attack
+a harpy evades Sheryl's attack.
+Sheryl evades a harpy's attack.
+Enter command: attack
+Sheryl did 5 damage to a harpy!
+a harpy has been slain!
+Enter command: rest
+You fell asleep.
+a demon attacks you in your sleep!
+Sheryl evades a demon's attack.
+Enter command: attack
+Sheryl did 3 damage to a demon!
+Sheryl evades a demon's attack.
+Enter command: attack
+Sheryl did 4 damage to a demon!
+Sheryl evades a demon's attack.
+Enter command: attack
+Sheryl did 3 damage to a demon!
+Sheryl evades a demon's attack.
+Enter command: attack
+Sheryl did 10 damage to a demon!
+Sheryl evades a demon's attack.
+Enter command: attack
+a demon evades Sheryl's attack.
+a demon did 3 damage to Sheryl!
+Enter command: attack
+Sheryl did 1 damage to a demon!
+Sheryl evades a demon's attack.
+Enter command: attack
+a demon evades Sheryl's attack.
+Sheryl evades a demon's attack.
+Enter command: attack
+Sheryl did 6 damage to a demon!
+a demon has been slain!
+Enter command: rest
+You fell asleep.
+a bear attacks you in your sleep!
+Sheryl evades a bear's attack.
+Enter command: attack
+a bear evades Sheryl's attack.
+a bear did 2 damage to Sheryl!
+Enter command: attack
+a bear evades Sheryl's attack.
+Sheryl evades a bear's attack.
+Enter command: status
+level: 1
+health: 21/30 
+Enter command: attack
+Sheryl did 5 damage to a bear!
+Sheryl evades a bear's attack.
+Enter command: attack
+Sheryl did 1 damage to a bear!
+Sheryl evades a bear's attack.
+Enter command: attack
+a bear evades Sheryl's attack.
+Sheryl evades a bear's attack.
+Enter command: attack
+a bear evades Sheryl's attack.
+Sheryl evades a bear's attack.
+Enter command: attack
+Sheryl did 3 damage to a bear!
+Sheryl evades a bear's attack.
+Enter command: attack
+a bear evades Sheryl's attack.
+Sheryl evades a bear's attack.
+Enter command: attack
+Sheryl did 1 damage to a bear!
+Sheryl evades a bear's attack.
+Enter command: attack
+a bear evades Sheryl's attack.
+Sheryl evades a bear's attack.
+Enter command: attack
+Sheryl did 7 damage to a bear!
+Sheryl evades a bear's attack.
+Enter command: attack
+Sheryl did 1 damage to a bear!
+a bear has been slain!
+Enter command: up
+Now at row: 9    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+You encountered a minotaur!
+Enter command: attack
+a minotaur evades Sheryl's attack.
+Sheryl evades a minotaur's attack.
+Enter command: attack
+a minotaur evades Sheryl's attack.
+a minotaur did 2 damage to Sheryl!
+Enter command: attack
+Sheryl did 1 damage to a minotaur!
+Sheryl evades a minotaur's attack.
+Enter command: attack
+a minotaur evades Sheryl's attack.
+Sheryl evades a minotaur's attack.
+Enter command: attack
+Sheryl did 4 damage to a minotaur!
+Sheryl evades a minotaur's attack.
+Enter command: attack
+a minotaur evades Sheryl's attack.
+Sheryl evades a minotaur's attack.
+Enter command: attack
+a minotaur evades Sheryl's attack.
+Sheryl evades a minotaur's attack.
+Enter command: attack
+Sheryl did 1 damage to a minotaur!
+Sheryl evades a minotaur's attack.
+Enter command: attack
+Sheryl did 6 damage to a minotaur!
+Sheryl evades a minotaur's attack.
+Enter command: attack
+Sheryl did 5 damage to a minotaur!
+Sheryl evades a minotaur's attack.
+Enter command: attack
+Sheryl did 1 damage to a minotaur!
+a minotaur has been slain!
+Enter command: status
+level: 1
+health: 19/30 
+Enter command: rest
+You fell asleep.
+a wolf attacks you in your sleep!
+Sheryl evades a wolf's attack.
+Enter command: attack
+a wolf evades Sheryl's attack.
+Sheryl evades a wolf's attack.
+Enter command: attack
+a wolf evades Sheryl's attack.
+Sheryl evades a wolf's attack.
+Enter command: attack
+a wolf evades Sheryl's attack.
+a wolf did 1 damage to Sheryl!
+Enter command: attack
+a wolf evades Sheryl's attack.
+Sheryl evades a wolf's attack.
+Enter command: flee
+You ran away from a wolf.
+Enter command: up
+Now at row: 8    col: 3     cell contains: You find a suspicious spot on the ground... might be worth digging up. Type 'Loot' to look look around for loot.
+Enter command: Loot
+You found SteelPauldrons!
+Enter command: EquipSteelPauldrons
+Enter command: up
+Now at row: 7    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+Enter command: up
+Now at row: 6    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+You feel weary...
+Enter command: up
+Now at row: 5    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+Enter command: up
+Now at row: 4    col: 3     cell contains: Area seems too quiet... I should look around just in case. Type 'search' to look around.
+Enter command: search
+You head deeper into the forest while shouting for the princess to hear you
+You encountered a treant!
+Enter command: flee
+You were too slow to escape from a treant!
+Sheryl evades a treant's attack.
+Enter command: attack
+a treant evades Sheryl's attack.
+Sheryl evades a treant's attack.
+Enter command: attack
+a treant evades Sheryl's attack.
+a treant did 3 damage to Sheryl!
+Enter command: attack
+Sheryl did 5 damage to a treant!
+Sheryl evades a treant's attack.
+Enter command: status
+level: 1
+health: 14/37 
+Enter command: attack
+a treant evades Sheryl's attack.
+Sheryl evades a treant's attack.
+Enter command: attack
+Sheryl did 3 damage to a treant!
+a treant did 12 damage to Sheryl!
+Enter command: attack
+a treant evades Sheryl's attack.
+a treant did 2 damage to Sheryl!
+You were killed by a treant!
+YOU DIED.
